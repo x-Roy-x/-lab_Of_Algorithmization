@@ -1,0 +1,10 @@
+age, health, residencePlace, income, specific,quantityPerson 
+28, false, Lviv, 6000, House, Poor, 4
+age, health, residencePlace, income, specific,name
+12, false, Lviv, 1000000, Fire, Rich, SoftServe
+age, health, residencePlace, income, specific, specific,caretaker 
+45, true, Rivne, 1200, Life, Poor, false
+age, health, residencePlace, income, specific,name
+15, true, Lviv, 1900000, Catastrofe, Rich, Epam
+age, health, residencePlace, income, specific,quantityPerson 
+45, true, Lviv, 78000, Health, Rich, 3

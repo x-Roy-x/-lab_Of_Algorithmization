@@ -1,0 +1,9 @@
+ua\lviv\iot\InsuranceService.class
+ua\lviv\iot\persistence\dao\AbstractDao.class
+ua\lviv\iot\persistence\dao\InsuranceDao.class
+ua\lviv\iot\Corporate.class
+ua\lviv\iot\SalesManager.class
+ua\lviv\iot\Insurance.class
+ua\lviv\iot\persistence\dao\IDao.class
+ua\lviv\iot\persistence\dao\InsuranceDaoImpl.class
+ua\lviv\iot\rest\config.class
