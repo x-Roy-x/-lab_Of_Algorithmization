@@ -1,1 +1,1 @@
-# -lab_Of_Algorithmization
+# lab_Of_Algorithmization
